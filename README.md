@@ -1,8 +1,5 @@
 
-# cached-queries-with-nodejs
-Caching queries or 
-
-## Overview
+## Cached Queries With Nodejs
 
 I'm still a CFML coder at heart, so this is a personal project to replicate something similar to CFML Query Caching. It demonstrates how to set up a Node.js application with a RDBMS (SQLite3 for now) and Redis for caching query results. Each user’s query results are cached uniquely based on their user ID and query parameters. This setup aims to replicate caching of queries.
 
